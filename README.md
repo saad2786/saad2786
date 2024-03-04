@@ -1,5 +1,5 @@
 # Hello, I'm Muhammadsaad! 👋
-
+<h1 style="font-wieght:bold; margin:auto">Hello, I'm Muhammadsaad! 👋</h1>
 Welcome to my GitHub profile! I'm a passionate web developer with expertise in various technologies. Here's a bit about me:
 
 ## About Me
