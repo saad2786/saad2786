@@ -17,32 +17,32 @@ Welcome to my GitHub profile! I'm a passionate web developer with expertise in v
 ### Web Development
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="ReactJS"/> ReactJS
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/> HTML
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/> CSS
-  <img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass"/> Sass
-  <img src="https://img.icons8.com/color/48/000000/tailwind-css.png" alt="Tailwind CSS"/> Tailwind CSS
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/> JavaScript
-  <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux"/> Redux
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Query"/> React Query
-  <img src="https://img.icons8.com/color/48/000000/styled-components.png" alt="Styled Components"/> Styled Components
-  <img src="https://img.icons8.com/color/48/000000/css-modules.png" alt="CSS Modules"/> CSS Modules
+  <img src="https://img.icons8.com/color/96/000000/react-native.png" alt="ReactJS"/> 
+  <img src="https://img.icons8.com/color/96/000000/html-5.png" alt="HTML"/> 
+  <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS"/> 
+  <img src="https://img.icons8.com/color/96/000000/sass.png" alt="Sass"/> 
+  <img src="https://img.icons8.com/color/96/000000/tailwind-css.png" alt="Tailwind CSS"/> 
+  <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript"/> 
+  <img src="https://img.icons8.com/color/96/000000/redux.png" alt="Redux"/> 
+  <img src="https://img.icons8.com/color/96/000000/react-native.png" alt="React Query"/> 
+  <img src="https://img.icons8.com/color/96/000000/styled-components.png" alt="Styled Components"/> 
+  <img src="https://img.icons8.com/color/96/000000/css-modules.png" alt="CSS Modules"/> 
 </div>
 
 ### Backend Development
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/> Node.js
-  <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js"/> Express.js
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/> MongoDB
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/> MySQL
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server"/> SQL Server
+  <img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="Node.js"/> 
+  <img src="https://img.icons8.com/color/96/000000/express.png" alt="Express.js"/> 
+  <img src="https://img.icons8.com/color/96/000000/mongodb.png" alt="MongoDB"/> 
+  <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" alt="MySQL"/> 
+  <img src="https://img.icons8.com/color/96/000000/microsoft-sql-server.png" alt="SQL Server"/> 
 </div>
 
 ### Tools & Others
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode"/> VSCode
+  <img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" alt="VSCode"/> 
 </div>
 
 ## Connect with Me
@@ -50,5 +50,5 @@ Welcome to my GitHub profile! I'm a passionate web developer with expertise in v
 - GitHub: (https://github.com/saad2786)
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/saadpatil)
 - Portfolio: [Your Portfolio Website](https://md-saad-23.netlify.app)
-
+  
 Feel free to explore my projects and repositories. If you have any questions, suggestions, or collaboration opportunities, don't hesitate to reach out. Let's connect and build amazing things together! 🚀
