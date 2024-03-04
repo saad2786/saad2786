@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate web developer with expertise in v
   <img src="https://img.icons8.com/color/96/000000/html-5.png" alt="HTML"/> 
   <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS"/> 
   <img src="https://img.icons8.com/color/96/000000/sass.png" alt="Sass"/> 
-  <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,w_500,h_500,g_center/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/events/Tailwind_CSS_Logo.svg_GkNDLAs.png" alt="Tailwind CSS"/> 
+  <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,w_100,h_100,g_center/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/events/Tailwind_CSS_Logo.svg_GkNDLAs.png" alt="Tailwind CSS"/> 
   <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript"/> 
   <img src="https://img.icons8.com/color/96/000000/redux.png" alt="Redux"/> 
   <img src="https://img.icons8.com/color/96/000000/react-native.png" alt="React Query"/> 
