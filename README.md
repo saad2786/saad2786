@@ -24,9 +24,9 @@ Welcome to my GitHub profile! I'm a passionate web developer with expertise in v
   <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,w_60,h_60/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/events/Tailwind_CSS_Logo.svg_GkNDLAs.png" alt="Tailwind CSS"/> 
   <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript"/> 
   <img src="https://img.icons8.com/color/96/000000/redux.png" alt="Redux"/> 
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*elhu-42TzQEdsFjKDbQhhA.png" style="width:90px; hieght:90px"  alt="React Query"/> 
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*elhu-42TzQEdsFjKDbQhhA.png" style="width:90px; height:90px;"  alt="React Query"/> 
   <img src="https://img.icons8.com/color/96/000000/styled-components.png" alt="Styled Components"/> 
-  <img src="https://raw.githubusercontent.com/css-modules/logos/master/css-modules-logo.png"  style="width:90px; hieght:90px" alt="CSS Modules"/> 
+  <img src="https://raw.githubusercontent.com/css-modules/logos/master/css-modules-logo.png"  style="width:90px; height:90px;" alt="CSS Modules"/> 
 </div>
 
 ### Backend Development
@@ -45,10 +45,18 @@ Welcome to my GitHub profile! I'm a passionate web developer with expertise in v
   <img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" alt="VSCode"/> 
 </div>
 
+## Additional Skills
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman"/> 
+  <img src="https://seeklogo.com/images/S/strapi-logo-1EA63F462C-seeklogo.com.png" style="width:90px; height:90px;" alt="Strapi"/> 
+  <img src="https://formik.org//img/logo.svg" style="width:90px; height:90px;" alt="Formik"/> 
+</div>
+
 ## Connect with Me
 
 - GitHub: https://github.com/saad2786
 - LinkedIn: https://www.linkedin.com/in/saadpatil
 - Portfolio: https://md-saad-23.netlify.app
   
-Feel free to explore my projects and repositories. If you have any questions, suggestions, or collaboration opportunities, don't hesitate to reach out. Let's connect and build amazing things together! 🚀
+Feel free to explore my projects and repositories. If you have any questions, suggestions, or collaboration opportunities, don't hesitate to reach out. Let's connect and build amazing things together
