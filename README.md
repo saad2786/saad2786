@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm a passionate web developer with expertise in v
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" alt="VSCode"/>  
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman"/> 
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="width:90px; height:90px;" alt="Postman"/> 
     <img src="https://img.icons8.com/color/96/000000/git.png" alt="Git"/> 
 </div>
 
