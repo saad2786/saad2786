@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate web developer with expertise in v
   <img src="https://img.icons8.com/color/96/000000/redux.png" alt="Redux"/> 
   <img src="https://img.icons8.com/color/96/000000/react-native.png" alt="React Query"/> 
   <img src="https://img.icons8.com/color/96/000000/styled-components.png" alt="Styled Components"/> 
-  <img src="https://raw.githubusercontent.com/css-modules/logos/master/css-modules-logo.png" alt="CSS Modules"/> 
+  <img src="https://raw.githubusercontent.com/css-modules/logos/master/css-modules-logo.png"  style="width:60px; hieght:60px" alt="CSS Modules"/> 
 </div>
 
 ### Backend Development
